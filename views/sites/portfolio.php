@@ -18,6 +18,7 @@
                                                 <div data-filter=".explo" class="cbp-filter-item"><span> EXPLO TECH - 16 e 17 Outubro 2018</span></div>
                                                 <div data-filter=".ISEE" class="cbp-filter-item"><span>CONVENÇÃO ISEE - 16 e 17 Outubro 2018</span></div>
                                                 <div data-filter=".SOLUCIONA2018" class="cbp-filter-item" style="margin-bottom: 1em;"><span>SOLUCIONA BRASIL SP - Setembro 2018</span></div>
+                                                <div data-filter=".FENAF" class="cbp-filter-item"><span> FENAF - Setembro 2019</span></div>
                                                 <div data-filter=".SOLUCIONA2019" class="cbp-filter-item"><span> SOLUCIONA BRASIL SP - Setembro 2019</span></div>
                                                 <div data-filter=".ISEE2018" class="cbp-filter-item"><span>CONGRESSO ISEE BH - Setembro 2019</span></div>
                                                 <div data-filter=".SOLUCIONA2020" class="cbp-filter-item"><span> SOLUCIONA BRASIL NE - 2020</span></div>
@@ -73,6 +74,22 @@
                                                             </div>
 
                                                             <a class="zoom-popup cbp-lightbox" href="<?=site_url()?>resources/site/assets/img/projects/soluciona.jpg" data-title="Setembro 2018">
+                                                                <i class="fa fa-search"></i>
+                                                            </a>
+                                                        </div><!-- /.effect-default -->
+                                                    </div>
+                                                </div><!-- /.project-item -->
+                                            </div><!-- /.cbp-item -->
+
+                                                  <div class="cbp-item FENAF">
+                                                <div class="project-item">
+                                                    <div class="inner">
+                                                        <div class="effect-default">
+                                                            <div class="project-image">
+                                                                <img src="<?=site_url()?>resources/site/assets/img/projects/fenaf.jpg" alt="image">      
+                                                            </div>
+
+                                                            <a class="zoom-popup cbp-lightbox" href="<?=site_url()?>resources/site/assets/img/projects/fenaf.jpg" data-title="Setembro 2019">
                                                                 <i class="fa fa-search"></i>
                                                             </a>
                                                         </div><!-- /.effect-default -->
