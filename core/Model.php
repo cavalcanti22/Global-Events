@@ -3,14 +3,10 @@
 	class Model 
 	{
 		
-		// private $host = "localhost";
-		private $host = "global1959.mysql.dbaas.com.br";
-		// private $usuario = "root";
-		private $usuario = "global1959";
-		// private $senha = "";
-		private $senha = "vitoria22";
+		private $host = "localhost";
+		private $usuario = "root";
+		private $senha = "";
 		private $db = "global1959";
-		// private $db = "global";
 
 		public function execute($q){
 			

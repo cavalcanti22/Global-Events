@@ -29,8 +29,8 @@
 
 	function site_url(){
 
-	// return "http://localhost/Global/";
-	return "http://globalevents1959.com/";
+	return "http://localhost/Global-Events/";
+	// return "http://globalevents1959.com/";
 }
  ?>
 
