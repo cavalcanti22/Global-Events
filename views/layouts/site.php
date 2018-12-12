@@ -19,7 +19,7 @@
    
 
     <!-- Favicon and touch icons  -->
-    <link rel="shortcut icon" href="<?=site_url()?>resources/site/assets/icon/globallogo.png">
+    <link rel="shortcut icon" href="<?=site_url()?>resources/site/assets/icon/globallogo_ferias.png">
     <link rel="apple-touch-icon-precomposed" href="<?=site_url()?>resources/site/assets/icon/apple-touch-icon-158-precomposed.png">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -72,7 +72,7 @@
                     <div id="site-logo" class="clearfix">
                         <div id="site-logo-inner">
                              <a href="<?=site_url()?>" title="Contrucst" rel="home" class="main-logo">
-                                <img src="<?=site_url()?>resources/site/assets/img/globallogo.png" alt="Factory" data-retina="<?=site_url()?>resources/site/assets/img/globallogo.png" data-width="173" data-height="61">
+                                <img src="<?=site_url()?>resources/site/assets/img/globallogo_ferias.png" alt="Factory" data-retina="<?=site_url()?>resources/site/assets/img/globallogo_ferias.png" data-width="173" data-height="61">
                             </a>       
                         </div>
                     </div><!-- #site-logo -->
@@ -82,7 +82,15 @@
                     <div id="header-aside">
                         <div class="wprt-info">
                             <div class="inner">
-                                
+                                    
+                                <div class="address"><div class="info-wrap">
+                                    
+                                    <div class="info-c"><span class="font-heading">*AVISO FÉRIAS*</span>
+                                        <br><p style="color:red;"><b>Estaremos em férias coletivas a partir de 17/12, retornando às atividades no dia 07/01/19. Atenderemos os expositores da FENAF 2019 até o dia 31/01/12.</b></p>
+                                    </div>
+
+                                    </div>
+                                </div>  
                                 <div class="address"><div class="info-wrap">
                                     <div class="info-i"><span><i class="fa fa-map-marker"></i></span></div>
                                     
