@@ -86,7 +86,7 @@
                                 <div class="address"><div class="info-wrap">
                                     
                                     <div class="info-c"><span class="font-heading">*AVISO FÉRIAS*</span>
-                                        <br><p style="color:red;"><b>Estaremos em férias coletivas a partir de 17/12, retornando às atividades no dia 07/01/19. Atenderemos os expositores da FENAF 2019 até o dia 31/01/12.</b></p>
+                                        <br><p style="color:red;"><b>Estaremos em férias coletivas a partir de 17/12, retornando às atividades no dia 07/01/19. Atenderemos os expositores da FENAF 2019 até o dia 31/01/12. Email: monica@globalevents1959.com</b> </p>
                                     </div>
 
                                     </div>
