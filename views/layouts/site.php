@@ -95,8 +95,8 @@
                                     <div class="info-i"><span><i class="fa fa-map-marker"></i></span></div>
                                     
                                     <div class="info-c"><span class="font-heading">Brasil</span>
-                                        <br>Rua 09 de Julho, nº 5143 CJ 22, Cep:  01407-906, São Paulo - SP
-                                            <br>55 11 3073 1020<br/> 55 11 3073 1055
+                                        <br>Rua Maria A. Amaral Godoi, 87, Jardim São Paulo,  Cep:  02039-070, São Paulo - SP
+                                            <br>55 11 3073 1020<br/> 55 11 3042 7101
                                     </div>
 
                                     </div>

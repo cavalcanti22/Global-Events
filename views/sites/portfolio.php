@@ -19,9 +19,9 @@
                                                 <div data-filter=".ISEE" class="cbp-filter-item"><span>CONVENÇÃO ISEE - 16 e 17 Outubro 2018</span></div>
                                                 <div data-filter=".SOLUCIONA2018" class="cbp-filter-item" style="margin-bottom: 1em;"><span>SOLUCIONA BRASIL SP - Setembro 2018</span></div>
                                                 <div data-filter=".FENAF" class="cbp-filter-item"><span> FENAF - Setembro 2019</span></div>
-                                                <div data-filter=".SOLUCIONA2019" class="cbp-filter-item"><span> SOLUCIONA BRASIL SP - Setembro 2019</span></div>
-                                                <div data-filter=".ISEE2018" class="cbp-filter-item"><span>CONGRESSO ISEE BH - Setembro 2019</span></div>
-                                                <div data-filter=".SOLUCIONA2020" class="cbp-filter-item"><span> SOLUCIONA BRASIL NE - 2020</span></div>
+                                                <div data-filter=".SOLUCIONA2019" class="cbp-filter-item"><span> SOLUCIONA BRASIL SP</span></div>
+                                                <div data-filter=".exploconference" class="cbp-filter-item"><span>EXPLO CONFERENCE 13 E 14 ABRIL - 2020</span></div>
+                                                <div data-filter=".SOLUCIONA2020" class="cbp-filter-item"><span> SOLUCIONA BRASIL NE</span></div>
 
                                             </div>
                                         </div><!-- /.project-filter -->
@@ -33,15 +33,15 @@
                                         <div id="projects" class="cbp">
                              
 
-                                            <div class="cbp-item ISEE2018">
+                                            <div class="cbp-item exploconference">
                                                 <div class="project-item">
                                                     <div class="inner">
                                                         <div class="effect-default">
                                                             <div class="project-image">
-                                                                <img src="<?=site_url()?>resources/site/assets/img/projects/isee2.jpg" alt="image">                      
+                                                                <img src="<?=site_url()?>resources/site/assets/img/projects/exploconference.jpg" alt="image">                      
                                                             </div>
 
-                                                            <a class="zoom-popup cbp-lightbox" href="<?=site_url()?>resources/site/assets/img/projects/isee2.jpg" data-title="Setembro 2019">
+                                                            <a class="zoom-popup cbp-lightbox" href="<?=site_url()?>resources/site/assets/img/projects/exploconference.jpg" data-title="Setembro 2019">
                                                                 <i class="fa fa-search"></i>
                                                             </a>
                                                         </div><!-- /.effect-default -->
@@ -145,7 +145,7 @@
                                             </div><!-- /.cbp-item -->
                           
 
-                                            <div class="cbp-item explo ISEE SOLUCIONA2018 ISEE2018 SOLUCIONA2019 SOLUCIONA2020">
+                                            <div class="cbp-item explo ISEE SOLUCIONA2018 exploconference SOLUCIONA2019 SOLUCIONA2020">
                                                 <div class="project-item">
                                                     <div class="inner">
                                                         <div class="effect-default">
@@ -161,7 +161,7 @@
                                                 </div><!-- /.project-item -->
                                             </div><!-- /.cbp-item -->
 
-                                            <div class="cbp-item explo ISEE SOLUCIONA2018 ISEE2018 SOLUCIONA2019 SOLUCIONA2020">
+                                            <div class="cbp-item explo ISEE SOLUCIONA2018 exploconference SOLUCIONA2019 SOLUCIONA2020">
                                                 <div class="project-item">
                                                     <div class="inner">
                                                         <div class="effect-default">
@@ -179,7 +179,7 @@
 
                                    
 
-                                            <div class="cbp-item explo ISEE SOLUCIONA2020 ISEE2018 SOLUCIONA2018 SOLUCIONA2019">
+                                            <div class="cbp-item explo ISEE SOLUCIONA2020 exploconference SOLUCIONA2018 SOLUCIONA2019">
                                                 <div class="project-item">
                                                     <div class="inner">
                                                         <div class="effect-default">

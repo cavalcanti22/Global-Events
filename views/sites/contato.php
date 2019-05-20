@@ -10,8 +10,10 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-12">
+                                      <!--   <div class="wprt-spacer clearfix" data-desktop="80" data-mobi="60" data-smobi="60"></div>
+                                        <div class="wprt-gmap-2 gmap" data-lat="-23.492903" data-lng="-46.620604" data-zoom="14" data-scrollwheel="false" data-icon="http://maps.google.com/mapfiles/marker_green.png"></div> -->
                                         <div class="wprt-spacer clearfix" data-desktop="80" data-mobi="60" data-smobi="60"></div>
-                                        <div class="wprt-gmap-2 gmap" data-lat="-23.5783994" data-lng="-46.6769441" data-zoom="14" data-scrollwheel="false" data-icon="http://maps.google.com/mapfiles/marker_green.png"></div>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7318.195299890306!2d-46.620582!3d-23.492992!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef63a59889f43%3A0xd557129be35dc127!2sR.+Maria+Aparecida+do+Amaral+God%C3%B3i%2C+87+-+Jardim+S%C3%A3o+Paulo%2C+S%C3%A3o+Paulo+-+SP%2C+02039-020!5e0!3m2!1spt-BR!2sbr!4v1558379490962!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                                 
                                         <div class="wprt-spacer clearfix" data-desktop="30" data-mobi="30" data-smobi="30"></div>
                                     </div>
